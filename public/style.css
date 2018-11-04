@@ -1,0 +1,28 @@
+.gutter {
+  margin: 40px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.create-note-form {
+  width: 20%;
+}
+
+#noteContainer {
+  /* width: 100%; */
+}
+
+#sidebar-outer-container {
+  width: 20%;
+}
+
+#main-page-container {
+  width: 60%;
+}
+
+#update-note-form {
+
+}
